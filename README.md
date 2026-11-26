@@ -1,6 +1,5 @@
 # FenrirLVX
 
-[![Platform](https://img.shields.io/badge/Web-leviathan.ac-00ffcc?style=for-the-badge&logo=firefox&logoColor=black)](https://leviathan.ac)
 [![Org](https://img.shields.io/badge/Org-leviathan--offsec-00ffcc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/leviathan-offsec)
 [![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![License](https://img.shields.io/badge/License-MIT-gray?style=for-the-badge)](./LICENSE)
@@ -36,7 +35,7 @@ fenrir scan -t https://target.example.com
 ```
 
 All four are MIT, stateless, and pipe into cron or GitHub Actions.
-[leviathan.ac](https://leviathan.ac) · [@leviathan-offsec](https://github.com/leviathan-offsec)
+[@leviathan-offsec](https://github.com/leviathan-offsec)
 
 ---
 
@@ -199,4 +198,4 @@ database, and a match firing on an advisory with no upper bound.
 
 ## License
 
-MIT License. Developed by `@cyeezy08` for [Leviathan OffSec](https://leviathan.ac).
+MIT License. Developed by `@cyeezy08` for Leviathan X.
